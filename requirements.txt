@@ -1,0 +1,2 @@
+requests>=2.25.0
+pyOpenSSL>=20.0.0  # For better SSL handling
